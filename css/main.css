@@ -25,10 +25,10 @@ html {
 }
 
 .banner {
-position: relative;
-color: #fff;
-overflow: hidden;
-max-height: 500px;
+  position: relative;
+  color: #fff;
+  overflow: hidden;
+  max-height: 500px;
 }
 
 .banner-content {
